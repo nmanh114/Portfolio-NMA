@@ -1,0 +1,8 @@
+{
+  "name": "Forensic Portfolio - Nguyen Minh Anh",
+  "description": "Case #070411 - Forensic investigation dossier and portfolio for Nguyen Minh Anh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
